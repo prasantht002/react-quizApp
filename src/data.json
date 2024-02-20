@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "question":"What is the capital of India",
+        "options":["chennai","kolkata","delhi","mumbai"],
+        "correctOption":"delhi"
+    },
+    {
+        "id":2,
+        "question":"What is the capital of Tamilnadu",
+        "options":["chennai","kolkata","delhi","mumbai"],
+        "correctOption":"chennai"
+    },
+    {
+        "id":2,
+        "question":"What is the capital of Maharastra",
+        "options":["chennai","kolkata","delhi","mumbai"],
+        "correctOption":"mumbai"
+    }
+]
