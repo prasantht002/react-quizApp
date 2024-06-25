@@ -1,6 +1,8 @@
 import { useState } from 'react'
-import './App.css'
+// import './App.css'
 import { Quizapp } from './Quizapp'
+import { JsonDemo } from './JsonDemo'
+import TodoList from './Todo'
 
 function App() {
   
@@ -8,7 +10,9 @@ function App() {
   return (
     <>
       <div>
-       <Quizapp />
+       {/* <Quizapp /> */}
+       {/* <JsonDemo /> */}
+       <TodoList />
       </div>
      
     </>

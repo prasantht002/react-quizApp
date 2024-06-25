@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "8ea2",
+      "name": "kj",
+      "email": "skdfj",
+      "phoneNo": "kjsk",
+      "password": "mjnsk",
+      "confirmPassword": "ksjk"
+    },
+    {
+      "id": "65bf",
+      "name": "prasanth",
+      "email": "prasanth@gmail.com",
+      "phoneNo": "9360818541",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": "ecd2",
+      "name": "prasanth",
+      "email": "hello",
+      "phoneNo": "kjskj",
+      "password": "ksjjk",
+      "confirmPassword": "kjks"
+    },
+    {
+      "id": "85c5",
+      "name": "",
+      "email": "",
+      "phoneNo": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "065d",
+      "name": "",
+      "email": "",
+      "phoneNo": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "b3f4",
+      "name": "",
+      "email": "",
+      "phoneNo": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "4106",
+      "name": "",
+      "email": "",
+      "phoneNo": "",
+      "password": "",
+      "confirmPassword": ""
+    }
+  ],
+  "posts": []
+}
